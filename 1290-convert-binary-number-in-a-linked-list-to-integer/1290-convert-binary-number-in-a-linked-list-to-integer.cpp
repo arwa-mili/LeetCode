@@ -11,20 +11,14 @@
 class Solution {
 public:
     int getDecimalValue(ListNode* head) {
-        
-        queue<int> q;
-        while(head != NULL) {
-            q.push(head->val);
-             head = head->next;
-        }
         int res = 0;
-        int size = q.size();
-
-        for (int i = size - 1; i >= 0; i--) {
-            res += pow(2, i) * q.front();
-            q.pop();
-        }
-        return res;
         
+        while (head != NULL) {
+            // Shift left and add the current node's value
+            res = (res << 1) | head->val;
+            head = head->next;
+        }
+        
+        return res;
     }
 };
