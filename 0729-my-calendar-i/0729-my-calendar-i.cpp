@@ -5,7 +5,7 @@ public:
     MyCalendar() {}
 
     bool book(int startTime, int endTime) {
-        auto it = intervals.lower_bound({startTime, endTime});
+        auto it = intervals.lower_bound({startTime, 0});
 
         if (it != intervals.begin()) {
             auto prevv = prev(it);
