@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/arwa-mili/LeetCode/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/arwa-mili/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/arwa-mili/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/arwa-mili/LeetCode/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1470-tweet-counts-per-frequency](https://github.com/arwa-mili/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
 | [2429-design-a-food-rating-system](https://github.com/arwa-mili/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Heap (Priority Queue)
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/arwa-mili/LeetCode/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1470-tweet-counts-per-frequency](https://github.com/arwa-mili/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
 | [2429-design-a-food-rating-system](https://github.com/arwa-mili/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Two Pointers
@@ -47,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/arwa-mili/LeetCode/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1470-tweet-counts-per-frequency](https://github.com/arwa-mili/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/arwa-mili/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
@@ -66,8 +70,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/arwa-mili/LeetCode/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/arwa-mili/LeetCode/tree/master/0071-simplify-path) |
+## Prefix Sum
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
