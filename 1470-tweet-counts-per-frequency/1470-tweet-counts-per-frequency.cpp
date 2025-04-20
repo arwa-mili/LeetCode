@@ -1,7 +1,7 @@
 class TweetCounts {
 public:
-
-    unordered_map<string, vector<int>>tweets;
+ //multiset not set because the same tweet can be repeated in the same time
+    unordered_map<string, multiset<int>>tweets;
     unordered_map<string, int> scale = {
             {"minute", 60}, 
             {"hour", 3600}, 
@@ -11,20 +11,22 @@ public:
     }
     
     void recordTweet(string tweetName, int time) {
-        tweets[tweetName].push_back(time);
+        tweets[tweetName].insert(time);
     }
     
-    vector<int> getTweetCountsPerFrequency(string freq, string tweetName, int startTime, int endTime) {
-        vector <int>res;
-        for (int i=0; i <= (endTime - startTime) / scale[freq]; i++)
-            res.push_back(0);
+   
+     vector<int> getTweetCountsPerFrequency(string freq, string tweetName, int startTime, int endTime) {
+        vector<int> res;
+        int interval = scale[freq];
 
-        for (auto& time : tweets[tweetName]) {
-            if (time >= startTime && time <= endTime) {
-                int index = (time - startTime) / scale[freq];
-                res[index]++;
-            }
+        for (int start = startTime; start <= endTime; start += interval) {
+            int end = min(start + interval - 1, endTime);
+
+            auto low = tweets[tweetName].lower_bound(start);
+            auto high = tweets[tweetName].upper_bound(end);
+            res.push_back(distance(low, high));
         }
+
         return res;
     }
 };
