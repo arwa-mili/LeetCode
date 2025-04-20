@@ -1,24 +1,21 @@
 class MyCalendar {
 public:
+    set<pair<int, int>> intervals;
 
-  map<int, int> intervals; 
-    MyCalendar() {
-        
-    }
-    
+    MyCalendar() {}
+
     bool book(int startTime, int endTime) {
+        auto it = intervals.lower_bound({startTime, endTime});
 
-        auto it = intervals.upper_bound(startTime);
         if (it != intervals.begin()) {
-              auto prevIt = prev(it);
-              if (prevIt->second > startTime) return false;
-         }
-        if (it != intervals.end() && it->first < endTime) return false;
-        intervals[startTime] = endTime;
-        return true;
+            auto prevv = prev(it);
+            if (prevv->second > startTime) return false;
+        }
 
-        
-        
+        if (it != intervals.end() && it->first < endTime) return false;
+
+        intervals.insert({startTime, endTime});
+        return true;
     }
 };
 
