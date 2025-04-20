@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/arwa-mili/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/arwa-mili/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/arwa-mili/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/arwa-mili/LeetCode/tree/master/2429-design-a-food-rating-system) |
+## Two Pointers
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/arwa-mili/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/arwa-mili/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+## Sorting
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/arwa-mili/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
