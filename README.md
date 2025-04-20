@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/arwa-mili/LeetCode/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/arwa-mili/LeetCode/tree/master/0071-simplify-path) |
 | [2429-design-a-food-rating-system](https://github.com/arwa-mili/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Design
 |  |
@@ -65,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/arwa-mili/LeetCode/tree/master/0729-my-calendar-i) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/arwa-mili/LeetCode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
