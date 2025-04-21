@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/arwa-mili/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0729-my-calendar-i](https://github.com/arwa-mili/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/arwa-mili/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2429-design-a-food-rating-system](https://github.com/arwa-mili/LeetCode/tree/master/2429-design-a-food-rating-system) |
 ## Ordered Set
 |  |
@@ -81,4 +83,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
 | [2249-count-the-hidden-sequences](https://github.com/arwa-mili/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/arwa-mili/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/arwa-mili/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/arwa-mili/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
