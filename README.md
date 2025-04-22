@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/arwa-mili/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -95,4 +96,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arwa-mili/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/arwa-mili/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/arwa-mili/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/arwa-mili/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
