@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/arwa-mili/LeetCode/tree/master/0584-find-customer-referee) |
+| [0626-exchange-seats](https://github.com/arwa-mili/LeetCode/tree/master/0626-exchange-seats) |
 | [1625-group-sold-products-by-the-date](https://github.com/arwa-mili/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/arwa-mili/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1801-average-time-of-process-per-machine](https://github.com/arwa-mili/LeetCode/tree/master/1801-average-time-of-process-per-machine) |
