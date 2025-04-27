@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/arwa-mili/LeetCode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/arwa-mili/LeetCode/tree/master/0626-exchange-seats) |
 | [1161-project-employees-i](https://github.com/arwa-mili/LeetCode/tree/master/1161-project-employees-i) |
+| [1317-monthly-transactions-i](https://github.com/arwa-mili/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/arwa-mili/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1480-movie-rating](https://github.com/arwa-mili/LeetCode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/arwa-mili/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
