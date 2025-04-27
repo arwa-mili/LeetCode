@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/arwa-mili/LeetCode/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/arwa-mili/LeetCode/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/arwa-mili/LeetCode/tree/master/0626-exchange-seats) |
+| [1161-project-employees-i](https://github.com/arwa-mili/LeetCode/tree/master/1161-project-employees-i) |
 | [1480-movie-rating](https://github.com/arwa-mili/LeetCode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/arwa-mili/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/arwa-mili/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
