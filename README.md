@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1278-product-price-at-a-given-date](https://github.com/arwa-mili/LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/arwa-mili/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/arwa-mili/LeetCode/tree/master/1317-monthly-transactions-i) |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/arwa-mili/LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/arwa-mili/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1480-movie-rating](https://github.com/arwa-mili/LeetCode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/arwa-mili/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
