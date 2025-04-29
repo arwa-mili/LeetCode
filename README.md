@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1470-tweet-counts-per-frequency](https://github.com/arwa-mili/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
+| [2161-stock-price-fluctuation](https://github.com/arwa-mili/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/arwa-mili/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/arwa-mili/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2915-count-of-interesting-subarrays](https://github.com/arwa-mili/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/arwa-mili/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1470-tweet-counts-per-frequency](https://github.com/arwa-mili/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
+| [2161-stock-price-fluctuation](https://github.com/arwa-mili/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/arwa-mili/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/arwa-mili/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/arwa-mili/LeetCode/tree/master/3678-design-task-manager) |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arwa-mili/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2161-stock-price-fluctuation](https://github.com/arwa-mili/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/arwa-mili/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/arwa-mili/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/arwa-mili/LeetCode/tree/master/3678-design-task-manager) |
@@ -59,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/arwa-mili/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1470-tweet-counts-per-frequency](https://github.com/arwa-mili/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
+| [2161-stock-price-fluctuation](https://github.com/arwa-mili/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/arwa-mili/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/arwa-mili/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/arwa-mili/LeetCode/tree/master/3678-design-task-manager) |
@@ -181,4 +185,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/arwa-mili/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Data Stream
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/arwa-mili/LeetCode/tree/master/2161-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
