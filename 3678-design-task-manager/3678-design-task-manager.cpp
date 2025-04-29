@@ -1,7 +1,7 @@
 class TaskManager {
 public:
-    set<pair<long long,int>> set ;
-    map<int , pair<long long,int>> map ;
+    set<pair<int,int>> set ;
+    map<int , pair<int,int>> map ;
     TaskManager(vector<vector<int>>& tasks) {
         for(auto i : tasks) {
             int task = i[1] ;
