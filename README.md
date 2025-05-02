@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arwa-mili/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arwa-mili/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arwa-mili/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/arwa-mili/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/arwa-mili/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/arwa-mili/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arwa-mili/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arwa-mili/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/arwa-mili/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Greedy
 |  |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arwa-mili/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/arwa-mili/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Number Theory
 |  |
@@ -197,4 +200,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/arwa-mili/LeetCode/tree/master/2161-stock-price-fluctuation) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arwa-mili/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arwa-mili/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arwa-mili/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
