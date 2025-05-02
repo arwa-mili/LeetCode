@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arwa-mili/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arwa-mili/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/arwa-mili/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/arwa-mili/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/arwa-mili/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -78,12 +79,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/arwa-mili/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1470-tweet-counts-per-frequency](https://github.com/arwa-mili/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arwa-mili/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/arwa-mili/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/arwa-mili/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1470-tweet-counts-per-frequency](https://github.com/arwa-mili/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arwa-mili/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/arwa-mili/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Math
 |  |
@@ -96,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arwa-mili/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Segment Tree
 |  |
 | ------- |
@@ -115,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arwa-mili/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arwa-mili/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/arwa-mili/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Sliding Window
 |  |
@@ -126,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arwa-mili/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arwa-mili/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/arwa-mili/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Dynamic Programming
 |  |
