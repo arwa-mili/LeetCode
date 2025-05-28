@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/arwa-mili/LeetCode/tree/master/0071-simplify-path) |
+| [0145-binary-tree-postorder-traversal](https://github.com/arwa-mili/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/arwa-mili/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2121-find-if-path-exists-in-graph](https://github.com/arwa-mili/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -237,4 +239,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/arwa-mili/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/arwa-mili/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/arwa-mili/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
