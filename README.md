@@ -221,4 +221,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/arwa-mili/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/arwa-mili/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/arwa-mili/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/arwa-mili/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/arwa-mili/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
