@@ -7,9 +7,8 @@ public:
         int k = 1;
         while(k<numRows) {
             vector<int> elem;
-            elem.push_back({1}); 
+            elem.push_back(1); 
             for (int i =1;i< k;i++){
-                
                 elem.push_back(v[k - 1][i - 1] + v[k - 1][i]); 
             }
             elem.push_back(1);
