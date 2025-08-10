@@ -1,21 +1,21 @@
 class Solution {
 public:
-    bool isPowerOfTwo(int x) {
-        return x > 0 && (x & (x - 1)) == 0;
+    unordered_map<char, int> countDigits(int num) {
+        unordered_map<char, int> freq;
+        string s = to_string(num);
+        for (char c : s)
+            freq[c]++;
+        return freq;
     }
 
     bool reorderedPowerOf2(int n) {
-        string s = to_string(n);
-        sort(s.begin(), s.end()); // smallest permutation
+        auto targetFreq = countDigits(n);
 
-        do {
-            if (s[0] != '0') { 
-                int num = stoi(s);
-                if (isPowerOfTwo(num))
-                    return true;
-            }
-        } while (next_permutation(s.begin(), s.end()));
-
+        for (int i = 0; i < 31; ++i) {
+            int power = 1 << i;
+            if (countDigits(power) == targetFreq)
+                return true;
+        }
         return false;
     }
 };
