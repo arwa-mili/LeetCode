@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/arwa-mili/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1470-tweet-counts-per-frequency](https://github.com/arwa-mili/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
 | [2161-stock-price-fluctuation](https://github.com/arwa-mili/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/arwa-mili/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/arwa-mili/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0900-reordered-power-of-2](https://github.com/arwa-mili/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1470-tweet-counts-per-frequency](https://github.com/arwa-mili/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arwa-mili/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/arwa-mili/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/arwa-mili/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/arwa-mili/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arwa-mili/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arwa-mili/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/arwa-mili/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -223,10 +226,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/arwa-mili/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arwa-mili/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/arwa-mili/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/arwa-mili/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Depth-First Search
 |  |
