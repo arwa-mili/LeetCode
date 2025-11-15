@@ -4,13 +4,15 @@ public:
 
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
         vector<vector<int>> graph(n);
+        vector<bool> vis(n, false);
+
         
         for(auto &e : edges){
             graph[e[0]].push_back(e[1]);
             graph[e[1]].push_back(e[0]);
         }
 
-        vector<bool> vis(n, false);
+        
         return dfs(source, destination, graph, vis);
     }
 
