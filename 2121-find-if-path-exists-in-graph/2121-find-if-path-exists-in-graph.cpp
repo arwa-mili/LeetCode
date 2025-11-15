@@ -1,26 +1,27 @@
 class Solution {
 public:
-    bool validPath(int n, vector<vector<int>>& edges, int start, int end) {
-        unordered_map<int,vector<int>> graph; 
-        for(auto e : edges) {
+    
+
+    bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
+        vector<vector<int>> graph(n);
+        
+        for(auto &e : edges){
             graph[e[0]].push_back(e[1]);
             graph[e[1]].push_back(e[0]);
         }
-        vector<bool> visited(n,0);        
-        stack<int> st;
-        st.push(start);
-        visited[start] = 1; 
-        
-        while(!st.empty()){ 
-            auto top = st.top();
-            if(top == end)
-                return 1;
-            st.pop();
-            for(auto node : graph[top]){
-                if(!visited[node]){
-                    visited[node] = 1;
-                    st.push(node); 
-                }
+
+        vector<bool> vis(n, false);
+        return dfs(source, destination, graph, vis);
+    }
+
+    bool dfs(int node, int dest, vector<vector<int>>& graph, vector<bool>& vis){
+        if(node == dest) return true;
+        vis[node] = true;
+
+        for(int nei : graph[node]){
+            if(!vis[nei]){
+                if(dfs(nei, dest, graph, vis))
+                    return true;
             }
         }
         return false;
