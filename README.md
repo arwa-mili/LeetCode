@@ -252,11 +252,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/arwa-mili/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/arwa-mili/LeetCode/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/arwa-mili/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/arwa-mili/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [2121-find-if-path-exists-in-graph](https://github.com/arwa-mili/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/arwa-mili/LeetCode/tree/master/0463-island-perimeter) |
+| [0617-merge-two-binary-trees](https://github.com/arwa-mili/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [2121-find-if-path-exists-in-graph](https://github.com/arwa-mili/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/arwa-mili/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/arwa-mili/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/arwa-mili/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/arwa-mili/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -280,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/arwa-mili/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/arwa-mili/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/arwa-mili/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/arwa-mili/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## String Matching
 |  |
 | ------- |
