@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/arwa-mili/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1470-tweet-counts-per-frequency](https://github.com/arwa-mili/LeetCode/tree/master/1470-tweet-counts-per-frequency) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/arwa-mili/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2161-stock-price-fluctuation](https://github.com/arwa-mili/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/arwa-mili/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/arwa-mili/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/arwa-mili/LeetCode/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/arwa-mili/LeetCode/tree/master/0257-binary-tree-paths) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/arwa-mili/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/arwa-mili/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2429-design-a-food-rating-system](https://github.com/arwa-mili/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/arwa-mili/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/arwa-mili/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/arwa-mili/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/arwa-mili/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/arwa-mili/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 ## Queue
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/arwa-mili/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arwa-mili/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
