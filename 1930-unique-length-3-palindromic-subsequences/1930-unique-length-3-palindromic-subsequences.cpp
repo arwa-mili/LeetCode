@@ -1,24 +1,23 @@
 class Solution {
 public:
     int countPalindromicSubsequence(string s) {
-        int n = s.size();
         int result = 0;
+        int n = s.size();
 
-        for (char c = 'a'; c <= 'z'; c++) {
-            int left = 0, right = n - 1;
+        for(char c = 'a'; c <= 'z'; c++) {
+            int left = s.find(c);
+            int right = s.rfind(c);
 
-            while (left < n && s[left] != c) left++;
+            if (left != string::npos && right - left > 1) {
+                bool used[26] = {false};
 
-            while (right >= 0 && s[right] != c) right--;
+                for(int i = left + 1; i < right; i++) {
+                    used[s[i] - 'a'] = true;
+                }
 
-            if (left >= right) continue;
-
-            unordered_set<char> middleChars;
-            for (int i = left + 1; i < right; i++) {
-                middleChars.insert(s[i]);
+                for(bool x : used)
+                    if(x) result++;
             }
-
-            result += middleChars.size();
         }
 
         return result;
