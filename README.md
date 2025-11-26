@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arwa-mili/LeetCode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/arwa-mili/LeetCode/tree/master/0118-pascals-triangle) |
 | [0239-sliding-window-maximum](https://github.com/arwa-mili/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0368-largest-divisible-subset](https://github.com/arwa-mili/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arwa-mili/LeetCode/tree/master/0001-two-sum) |
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/arwa-mili/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/arwa-mili/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
