@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2915-count-of-interesting-subarrays](https://github.com/arwa-mili/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arwa-mili/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/arwa-mili/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arwa-mili/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/arwa-mili/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/arwa-mili/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arwa-mili/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/arwa-mili/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arwa-mili/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arwa-mili/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/arwa-mili/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arwa-mili/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
