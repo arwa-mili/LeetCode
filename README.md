@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arwa-mili/LeetCode/tree/master/0001-two-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/arwa-mili/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/arwa-mili/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/arwa-mili/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/arwa-mili/LeetCode/tree/master/0071-simplify-path) |
 | [0171-excel-sheet-column-number](https://github.com/arwa-mili/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/arwa-mili/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/arwa-mili/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/arwa-mili/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/arwa-mili/LeetCode/tree/master/1528-shuffle-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/arwa-mili/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arwa-mili/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/arwa-mili/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/arwa-mili/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/arwa-mili/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/arwa-mili/LeetCode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
