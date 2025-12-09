@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/arwa-mili/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/arwa-mili/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arwa-mili/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3583-count-special-triplets](https://github.com/arwa-mili/LeetCode/tree/master/3583-count-special-triplets) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/arwa-mili/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/arwa-mili/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-number-in-infinite-set](https://github.com/arwa-mili/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/arwa-mili/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2915-count-of-interesting-subarrays](https://github.com/arwa-mili/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3583-count-special-triplets](https://github.com/arwa-mili/LeetCode/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/arwa-mili/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/arwa-mili/LeetCode/tree/master/3678-design-task-manager) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/arwa-mili/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/arwa-mili/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [3583-count-special-triplets](https://github.com/arwa-mili/LeetCode/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/arwa-mili/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Depth-First Search
 |  |
