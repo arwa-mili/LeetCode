@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arwa-mili/LeetCode/tree/master/0001-two-sum) |
+| [0771-jewels-and-stones](https://github.com/arwa-mili/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/arwa-mili/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/arwa-mili/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/arwa-mili/LeetCode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/arwa-mili/LeetCode/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/arwa-mili/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0771-jewels-and-stones](https://github.com/arwa-mili/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1528-shuffle-string](https://github.com/arwa-mili/LeetCode/tree/master/1528-shuffle-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/arwa-mili/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/arwa-mili/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
