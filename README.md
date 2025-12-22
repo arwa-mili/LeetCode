@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/arwa-mili/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/arwa-mili/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/arwa-mili/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arwa-mili/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-shuffle-string](https://github.com/arwa-mili/LeetCode/tree/master/1528-shuffle-string) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/arwa-mili/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/arwa-mili/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/arwa-mili/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/arwa-mili/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1528-shuffle-string](https://github.com/arwa-mili/LeetCode/tree/master/1528-shuffle-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/arwa-mili/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/arwa-mili/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0118-pascals-triangle](https://github.com/arwa-mili/LeetCode/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/arwa-mili/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/arwa-mili/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/arwa-mili/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/arwa-mili/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/arwa-mili/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
