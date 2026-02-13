@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/arwa-mili/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/arwa-mili/LeetCode/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/arwa-mili/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/arwa-mili/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/arwa-mili/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3606-coupon-code-validator](https://github.com/arwa-mili/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/arwa-mili/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/arwa-mili/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/arwa-mili/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arwa-mili/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2249-count-the-hidden-sequences](https://github.com/arwa-mili/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/arwa-mili/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/arwa-mili/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3714-longest-balanced-substring-ii](https://github.com/arwa-mili/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 ## Queue
 |  |
 | ------- |
