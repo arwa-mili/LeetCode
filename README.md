@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arwa-mili/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-shuffle-string](https://github.com/arwa-mili/LeetCode/tree/master/1528-shuffle-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arwa-mili/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2073-time-needed-to-buy-tickets](https://github.com/arwa-mili/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arwa-mili/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/arwa-mili/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/arwa-mili/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arwa-mili/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2073-time-needed-to-buy-tickets](https://github.com/arwa-mili/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arwa-mili/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/arwa-mili/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/arwa-mili/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/arwa-mili/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/arwa-mili/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/arwa-mili/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/arwa-mili/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
