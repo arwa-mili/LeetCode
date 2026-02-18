@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1262-greatest-sum-divisible-by-three](https://github.com/arwa-mili/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arwa-mili/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-shuffle-string](https://github.com/arwa-mili/LeetCode/tree/master/1528-shuffle-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/arwa-mili/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arwa-mili/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2073-time-needed-to-buy-tickets](https://github.com/arwa-mili/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arwa-mili/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/arwa-mili/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arwa-mili/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0853-car-fleet](https://github.com/arwa-mili/LeetCode/tree/master/0853-car-fleet) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/arwa-mili/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2211-count-collisions-on-a-road](https://github.com/arwa-mili/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Prefix Sum
 |  |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arwa-mili/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/arwa-mili/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/arwa-mili/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/arwa-mili/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/arwa-mili/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -273,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/arwa-mili/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/arwa-mili/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/arwa-mili/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/arwa-mili/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
