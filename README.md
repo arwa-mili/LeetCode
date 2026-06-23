@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/arwa-mili/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0797-rabbits-in-forest](https://github.com/arwa-mili/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0853-car-fleet](https://github.com/arwa-mili/LeetCode/tree/master/0853-car-fleet) |
+| [0946-validate-stack-sequences](https://github.com/arwa-mili/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/arwa-mili/LeetCode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/arwa-mili/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/arwa-mili/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/arwa-mili/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/arwa-mili/LeetCode/tree/master/0155-min-stack) |
 | [0853-car-fleet](https://github.com/arwa-mili/LeetCode/tree/master/0853-car-fleet) |
+| [0946-validate-stack-sequences](https://github.com/arwa-mili/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/arwa-mili/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2211-count-collisions-on-a-road](https://github.com/arwa-mili/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 ## Prefix Sum
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/arwa-mili/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/arwa-mili/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/arwa-mili/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/arwa-mili/LeetCode/tree/master/2211-count-collisions-on-a-road) |
